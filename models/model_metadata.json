@@ -1,0 +1,48 @@
+{
+  "best_model_name": "AdaBoost",
+  "target": "churned",
+  "positive_class": 1,
+  "negative_class": 0,
+  "feature_columns": [
+    "age",
+    "watch_hours",
+    "last_login_days",
+    "monthly_fee",
+    "number_of_profiles",
+    "avg_watch_time_per_day",
+    "gender",
+    "region",
+    "device",
+    "payment_method",
+    "favorite_genre"
+  ],
+  "numeric_features": [
+    "age",
+    "watch_hours",
+    "last_login_days",
+    "monthly_fee",
+    "number_of_profiles",
+    "avg_watch_time_per_day"
+  ],
+  "categorical_features": [
+    "gender",
+    "region",
+    "device",
+    "payment_method",
+    "favorite_genre"
+  ],
+  "kmeans_features": [
+    "age",
+    "watch_hours",
+    "last_login_days",
+    "monthly_fee",
+    "number_of_profiles",
+    "avg_watch_time_per_day"
+  ],
+  "selected_k": 4,
+  "risk_thresholds": {
+    "low_to_medium": 0.35,
+    "medium_to_high": 0.65
+  },
+  "note": "Risk scores are proxy estimates based on historical churn labels; no future churn horizon is present in the source data."
+}
