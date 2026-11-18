@@ -1,0 +1,4 @@
+watch_engagement_level,customers,churned_customers,churn_rate,retained_customers,churn_rate_pct
+Low,1667,1407,0.8440311937612478,260,84.4
+Medium,1666,768,0.460984393757503,898,46.1
+High,1667,340,0.20395920815836832,1327,20.4

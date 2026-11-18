@@ -1,0 +1,4 @@
+gender,customers,churned_customers,churn_rate,retained_customers,churn_rate_pct
+Female,1711,874,0.510812390414962,837,51.08
+Male,1654,827,0.5,827,50.0
+Other,1635,814,0.4978593272171254,821,49.79

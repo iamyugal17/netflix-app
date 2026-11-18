@@ -1,0 +1,6 @@
+original_column,dummy_columns_found,rows_not_exactly_one,mismatch_with_original
+gender,3,0,0
+region,6,0,0
+device,5,0,0
+payment_method,5,0,0
+favorite_genre,7,0,0

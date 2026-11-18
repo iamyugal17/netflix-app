@@ -1,0 +1,4 @@
+avg_daily_watch_band,customers,churned_customers,churn_rate,retained_customers,churn_rate_pct
+Low,1667,1523,0.913617276544691,144,91.36
+Medium,1666,968,0.581032412965186,698,58.1
+High,1667,24,0.014397120575884824,1643,1.44

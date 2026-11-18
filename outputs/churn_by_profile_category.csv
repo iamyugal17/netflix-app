@@ -1,0 +1,4 @@
+profile_category,customers,churned_customers,churn_rate,retained_customers,churn_rate_pct
+Single profile,972,570,0.5864197530864198,402,58.64
+2-3 profiles,1995,1150,0.5764411027568922,845,57.64
+4+ profiles,2033,795,0.3910477127397934,1238,39.1

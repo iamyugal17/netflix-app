@@ -1,0 +1,49 @@
+segmentation_variable,segment,customers,churned_customers,churn_rate_pct,proposed_business_action
+avg_daily_watch_band,Low,1667,1523,91.36,Investigate segment drivers; test targeted retention outreach
+watch_engagement_level,Low,1667,1407,84.4,Investigate segment drivers; test targeted retention outreach
+inactivity_category,Critical (46+),1230,929,75.53,Investigate segment drivers; test targeted retention outreach
+inactivity_category,High (31-45),1239,925,74.66,Investigate segment drivers; test targeted retention outreach
+monthly_fee_band,Fee 8.99,1661,1027,61.83,Investigate segment drivers; test targeted retention outreach
+payment_method,Crypto,995,594,59.7,Test personalised engagement interventions
+profile_category,Single profile,972,570,58.64,Test personalised engagement interventions
+avg_daily_watch_band,Medium,1666,968,58.1,Test personalised engagement interventions
+payment_method,Gift Card,976,564,57.79,Test personalised engagement interventions
+profile_category,2-3 profiles,1995,1150,57.64,Test personalised engagement interventions
+age_group,46-55,919,501,54.52,Test personalised engagement interventions
+favorite_genre,Action,697,365,52.37,Test personalised engagement interventions
+favorite_genre,Drama,731,382,52.26,Test personalised engagement interventions
+device,Laptop,1006,521,51.79,Test personalised engagement interventions
+region,Europe,867,448,51.67,Test personalised engagement interventions
+favorite_genre,Horror,713,367,51.47,Test personalised engagement interventions
+region,South America,873,449,51.43,Test personalised engagement interventions
+gender,Female,1711,874,51.08,Test personalised engagement interventions
+favorite_genre,Documentary,729,370,50.75,Test personalised engagement interventions
+age_group,18-25,801,406,50.69,Test personalised engagement interventions
+region,Asia,841,426,50.65,Test personalised engagement interventions
+device,Mobile,1004,507,50.5,Test personalised engagement interventions
+age_group,26-35,949,478,50.37,Test personalised engagement interventions
+region,Oceania,765,383,50.07,Test personalised engagement interventions
+device,Tablet,1048,524,50.0,Test personalised engagement interventions
+gender,Male,1654,827,50.0,Test personalised engagement interventions
+device,TV,993,496,49.95,Monitor and maintain current experience
+favorite_genre,Comedy,685,342,49.93,Monitor and maintain current experience
+gender,Other,1635,814,49.79,Monitor and maintain current experience
+region,North America,851,421,49.47,Monitor and maintain current experience
+device,Desktop,949,467,49.21,Monitor and maintain current experience
+age_group,56+,1451,707,48.73,Monitor and maintain current experience
+region,Africa,803,388,48.32,Monitor and maintain current experience
+favorite_genre,Romance,725,350,48.28,Monitor and maintain current experience
+age_group,36-45,880,423,48.07,Monitor and maintain current experience
+favorite_genre,Sci-Fi,720,339,47.08,Monitor and maintain current experience
+payment_method,PayPal,1026,483,47.08,Monitor and maintain current experience
+watch_engagement_level,Medium,1666,768,46.1,Monitor and maintain current experience
+monthly_fee_band,Fee 13.99,1646,748,45.44,Monitor and maintain current experience
+monthly_fee_band,Fee 17.99,1693,740,43.71,Monitor and maintain current experience
+payment_method,Debit Card,1030,450,43.69,Monitor and maintain current experience
+payment_method,Credit Card,973,424,43.58,Monitor and maintain current experience
+profile_category,4+ profiles,2033,795,39.1,Monitor and maintain current experience
+inactivity_category,Moderate (16-30),1260,406,32.22,Monitor and maintain current experience
+inactivity_category,Low (8-15),621,168,27.05,Monitor and maintain current experience
+watch_engagement_level,High,1667,340,20.4,Monitor and maintain current experience
+inactivity_category,Active (0-7),650,87,13.38,Monitor and maintain current experience
+avg_daily_watch_band,High,1667,24,1.44,Monitor and maintain current experience

@@ -1,0 +1,40 @@
+,dtype,missing_count,missing_pct,unique_values
+customer_id,object,0,0.0,5000
+age,int64,0,0.0,53
+gender,object,0,0.0,3
+watch_hours,float64,0,0.0,2343
+last_login_days,int64,0,0.0,61
+region,object,0,0.0,6
+device,object,0,0.0,5
+monthly_fee,float64,0,0.0,3
+churned,int64,0,0.0,2
+payment_method,object,0,0.0,5
+number_of_profiles,int64,0,0.0,5
+avg_watch_time_per_day,float64,0,0.0,505
+favorite_genre,object,0,0.0,7
+gender_Female,int64,0,0.0,2
+gender_Male,int64,0,0.0,2
+gender_Other,int64,0,0.0,2
+region_Africa,int64,0,0.0,2
+region_Asia,int64,0,0.0,2
+region_Europe,int64,0,0.0,2
+region_North America,int64,0,0.0,2
+region_Oceania,int64,0,0.0,2
+region_South America,int64,0,0.0,2
+device_Desktop,int64,0,0.0,2
+device_Laptop,int64,0,0.0,2
+device_Mobile,int64,0,0.0,2
+device_TV,int64,0,0.0,2
+device_Tablet,int64,0,0.0,2
+payment_method_Credit Card,int64,0,0.0,2
+payment_method_Crypto,int64,0,0.0,2
+payment_method_Debit Card,int64,0,0.0,2
+payment_method_Gift Card,int64,0,0.0,2
+payment_method_PayPal,int64,0,0.0,2
+favorite_genre_Action,int64,0,0.0,2
+favorite_genre_Comedy,int64,0,0.0,2
+favorite_genre_Documentary,int64,0,0.0,2
+favorite_genre_Drama,int64,0,0.0,2
+favorite_genre_Horror,int64,0,0.0,2
+favorite_genre_Romance,int64,0,0.0,2
+favorite_genre_Sci-Fi,int64,0,0.0,2
